@@ -1,0 +1,23 @@
+{
+  "name": "git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gcaaa31928/GItServiceNodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gcaaa31928/GItServiceNodejs/issues"
+  },
+  "homepage": "https://github.com/gcaaa31928/GItServiceNodejs#readme",
+  "dependencies": {
+    "http-duplex": "0.0.2",
+    "pushover": "^1.3.6"
+  }
+}
